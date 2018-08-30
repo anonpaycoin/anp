@@ -12,7 +12,7 @@ AnonPay coin ANP is under construction. Soon we will provide the necessary infor
 
 ### Discussion and community
 <table>
-<tr><td>Discord Chat</td><td><a href="https://discord.gg/ezNTvW">Discord chat</a></td></tr>
+<tr><td>Discord Chat</td><td><a href="https://discord.gg/CE3YNZd">Discord chat</a></td></tr>
 </table>
 
 
